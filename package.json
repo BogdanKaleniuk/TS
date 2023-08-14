@@ -1,0 +1,23 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BogdanKaleniuk/TS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BogdanKaleniuk/TS/issues"
+  },
+  "homepage": "https://github.com/BogdanKaleniuk/TS#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.3.0"
+  }
+}
